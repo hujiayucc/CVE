@@ -65,4 +65,5 @@ for (File file : files) {
 [![](https://oss.hujiayucc.cn/blog/OSSKMQe20240603141405.png?x-oss-process=image/resize,m_fixed,h_370,w_600)](https://oss.hujiayucc.cn/blog/OSSKMQe20240603141405.png)
 
 演示视频：[点击查看](https://oss.hujiayucc.cn/videos/Screenrecorder-2024-05-25-11-36-10-451.mp4 "点击查看")
+
 通过以上测试，可以制作一个客户端实现远程访问和修改
