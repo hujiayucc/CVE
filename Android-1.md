@@ -10,12 +10,17 @@ Vendor:
 https://www.android.com/
 
 Description:
+
 Android操作系统对Android/data访问路径判断存在逻辑缺陷。
+
 系统对Android/data路径字符串过滤没做好正确处理，黑客可以利用这个漏洞任意读取、写入、删除Android/data目录下的所以文件夹和文件。
+
 状态：严重
+
 漏洞环境及工具
 - Android OS 14
 - Termux 任意版本
+
 
 复现过程
 ```shell
