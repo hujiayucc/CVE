@@ -57,7 +57,8 @@ for (File file : files) {
 ```
 
 附加说明
-除了**/sdcard/Android$'\u200d'/data**以外，还可以通过**/sdcard/$'\u200b'Android/data**进行越权操作
+
+除了 **/sdcard/Android$'\u200d'/data** 以外，还可以通过 **/sdcard/$'\u200b'Android/data** 进行越权操作
 
 ![](https://oss.hujiayucc.cn/blog/OSS9QMU20240603141624.png)
 
